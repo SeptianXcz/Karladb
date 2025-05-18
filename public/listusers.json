@@ -1,0 +1,23 @@
+[
+  {
+    "nama": "Karla",
+    "password": "karla",
+    "nomor": [
+      "628123456789",
+      "6281324217842"
+    ],
+    "status": "active"
+  },
+  {
+    "nama": "Dinata",
+    "password": "Dinata",
+    "nomor": [],
+    "status": "blacklist"
+  },
+  {
+    "nama": "asep",
+    "password": "asep",
+    "nomor": [],
+    "status": "blacklist"
+  }
+]
